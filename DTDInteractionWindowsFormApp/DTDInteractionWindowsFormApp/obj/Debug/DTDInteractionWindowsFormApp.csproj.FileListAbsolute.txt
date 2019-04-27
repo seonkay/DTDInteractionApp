@@ -1,0 +1,12 @@
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\bin\Debug\DTDInteractionWindowsFormApp.exe.config
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\bin\Debug\DTDInteractionWindowsFormApp.exe
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\bin\Debug\DTDInteractionWindowsFormApp.pdb
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.csprojAssemblyReference.cache
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.Form1.resources
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.Properties.Resources.resources
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.csproj.GenerateResource.cache
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.csproj.CoreCompileInputs.cache
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.exe
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.pdb
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\skim\source\repos\DTDInteractionWindowsFormApp\DTDInteractionWindowsFormApp\obj\Debug\DTDInteractionWindowsFormApp.csproj.CopyComplete
